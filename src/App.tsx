@@ -148,7 +148,7 @@ const Div = styled.div`
     min-height: 200px;
     border-radius: 50%;
     overflow: hidden;
-    box-shadow: 5px 10px 18px #888888;
+    box-shadow:rgb(0 0 0 / 34%) 5px 10px 18px;
 
   }
 `;
