@@ -76,11 +76,8 @@ const App = () => {
           autoPlay
           controls
         />
-        <audio id="player" controls autoPlay={true}>
-          <source src="/song.mp3#t=00:01:13" type="audio/mpeg" />
-        </audio>
-        <iframe title="frame" src="/song.mp3#t=00:01:13" allow="autoplay" style={{ display: 'none' }} id="iframeAudio">
-        </iframe>
+
+
 
       </Div>
     </div>
